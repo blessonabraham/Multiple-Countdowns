@@ -6,6 +6,7 @@ Version: 1.0
 Author: Blesson Abraham
 Author URI: http://www.blesson.me
 Description: a Plugin to Set Multiple Countdowns or a Series of 10 Countdowns
+License: The MIT License (MIT)
 */
 
 
