@@ -1,7 +1,7 @@
 
-##Plugin Name: Multiple Countdowns
-##Description: a Plugin to Set Multiple Countdowns or a Series of 10 Countdowns.
-##Platform: Wordpress
+####Plugin Name: Multiple Countdowns
+####Description: To Set Multiple Countdowns or a Series of 10 Countdowns.
+####Platform: Wordpress
 
 
 #Idea Behind:
